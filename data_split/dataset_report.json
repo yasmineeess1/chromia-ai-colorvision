@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "split_percent": [
+    80.0,
+    10.0,
+    10.0
+  ],
+  "kept": 3341,
+  "counts": {
+    "train": 2672,
+    "val": 334,
+    "test": 335
+  },
+  "filters": {
+    "min_size": 128,
+    "min_chroma": 3.0
+  },
+  "discarded": {
+    "found": 3528,
+    "unreadable": 0,
+    "too_small": 2,
+    "grayscale": 184,
+    "duplicates": 1
+  }
+}

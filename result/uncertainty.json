@@ -1,0 +1,8 @@
+{
+  "mc_passes": 8,
+  "dropout_layers": 1,
+  "pearson_mean": 0.1979149624105954,
+  "spearman_mean": 0.16573284328237445,
+  "error_ratio_top10pct_uncertain_vs_all": 1.3142033312747727,
+  "note": "Corrélation proche de 0 et ratio proche de 1 : l'incertitude n'informe pas sur l'erreur. Plus ces valeurs augmentent, plus les zones jugées incertaines sont réellement celles où le modèle se trompe."
+}
